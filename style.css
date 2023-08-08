@@ -23,7 +23,6 @@ color: var(--branco-principal)
 
 .container{
     height: 100vh;
-    display: grid;
 }
 
 .principal_botao{
