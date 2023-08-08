@@ -5,7 +5,7 @@
     --cor-de-fundo:#00030C; 
 
 }
-body {
+body{
 background-color: var(--cor-de-fundo);
 color: var(--branco-principal)
  }
@@ -23,6 +23,8 @@ color: var(--branco-principal)
 
 .container{
     height: 100vh;
+    display: grid;
+    grid-template-columns: ;
 }
 
 .principal_botao{
@@ -30,4 +32,10 @@ color: var(--branco-principal)
     border-radius: 16px;
     padding: 1em;
     color: var(--branco-principal)
+}
+
+.botao_secundario{
+    background-color: transparent;
+    border:2px solid var(--branco-principal);
+    border-radius: 16px;
 }
