@@ -6,8 +6,8 @@
 
 }
 body{
-background-color: var(--cor-de-fundo);
-color: var(--branco-principal)
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal)
  }
 
 *{
@@ -38,4 +38,8 @@ color: var(--branco-principal)
     background-color: transparent;
     border:2px solid var(--branco-principal);
     border-radius: 16px;
+}
+
+.container_aviso{
+
 }
