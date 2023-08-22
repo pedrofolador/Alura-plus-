@@ -54,5 +54,11 @@ body{
 
 .container_imagem{
     margin: lem 0 2em 0;
-    
+
 }
+
+.container_caixa{
+    margin: 0 6em;
+    margin-top: 150px;
+}
+
