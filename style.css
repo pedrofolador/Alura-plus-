@@ -63,3 +63,12 @@ body{
     margin: 0 6em;
     margin-top: 150px;
 }
+
+.secundario_imagem{
+    width: 80%;
+    align-items: center;
+}
+
+.secundario{
+    align-items: center;
+}
