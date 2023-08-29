@@ -79,3 +79,8 @@ body{
     color: var(--branco-principal);
     margin-bottom: 0.1em;
 }
+
+.descricao_texto{
+    color: var(--cinza-secundario);
+    
+}
