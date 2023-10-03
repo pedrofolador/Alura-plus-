@@ -115,3 +115,9 @@ body{
     list-style-type: none;
     margin-top: 1em;
 }
+
+.lista_link{
+    text-decoration: none;
+    color: var(--branco-principal);
+    margin-left: 1em;
+}
