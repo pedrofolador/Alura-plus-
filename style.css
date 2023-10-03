@@ -85,7 +85,7 @@ body{
 }
 
 .secundario_botao{
-    display:inline-block;
+    display: inline-block;
     margin-top: 1em;
 }
 
@@ -98,4 +98,20 @@ body{
     justify-content: center;
     list-style-type: none;
     margin: 5em 0;
+}
+
+.lista_item{
+    font-size: 32px;
+}
+
+.rodape{
+    text-align: center;
+    margin: 5em 3em;
+}
+
+.rodape_lista {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin-top: 1em;
 }
